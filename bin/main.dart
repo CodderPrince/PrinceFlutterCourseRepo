@@ -1,3 +1,5 @@
-void main() {
+import 'triangle.dart';
 
+void main() {
+  triangle();
 }
