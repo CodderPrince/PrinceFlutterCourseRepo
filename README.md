@@ -22,7 +22,6 @@
 </p>
 
 <h2 style="text-align: justify;">
-  𝑯𝒆𝒍𝒍𝒐, 𝑰’𝒎 𝑷𝒓𝒊𝒏𝒄𝒆! <br>
   𝑰 𝒂𝒎 𝒂 𝒄𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒆𝒓 𝒂𝒏𝒅 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒍𝒆𝒂𝒓𝒏𝒆𝒓. 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚, 𝑰’𝒎 𝒔𝒕𝒖𝒅𝒚𝒊𝒏𝒈 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒂𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 𝒂𝒕 𝑩𝒆𝒈𝒖𝒎 𝑹𝒐𝒌𝒆𝒚𝒂 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚, 𝑹𝒂𝒏𝒈𝒑𝒖𝒓. <br><br>
   𝑰 𝒍𝒐𝒗𝒆 𝒄𝒐𝒅𝒊𝒏𝒈 𝒂𝒏𝒅 𝒂𝒎 𝒂𝒍𝒘𝒂𝒚𝒔 𝒆𝒙𝒄𝒊𝒕𝒆𝒅 𝒕𝒐 𝒆𝒙𝒑𝒍𝒐𝒓𝒆 𝒏𝒆𝒘 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔 𝒔𝒖𝒄𝒉 𝒂𝒔 𝑫𝒂𝒓𝒕, 𝑭𝒍𝒖𝒕𝒕𝒆𝒓, 𝒂𝒏𝒅 𝑱𝒂𝒗𝒂𝑭𝑿. <br>
   𝑴𝒚 𝒄𝒖𝒓𝒓𝒆𝒏𝒕 𝒇𝒐𝒄𝒖𝒔 𝒊𝒔 𝒐𝒏 <strong>𝒄𝒓𝒆𝒂𝒕𝒊𝒏𝒈 𝒓𝒆𝒔𝒑𝒐𝒏𝒔𝒊𝒗𝒆, 𝒄𝒓𝒐𝒔𝒔-𝒑𝒍𝒂𝒕𝒇𝒐𝒓𝒎 𝒎𝒐𝒃𝒊𝒍𝒆 𝒂𝒑𝒑𝒔</strong>. 𝑰 𝒂𝒎 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒊𝒏𝒈 𝒄𝒐𝒅𝒆 𝒕𝒉𝒂𝒕 𝒎𝒂𝒌𝒆𝒔 𝒂𝒏 𝒊𝒎𝒑𝒂𝒄𝒕!
@@ -95,6 +94,38 @@ Here are some tools and technologies I’m using for this course:
 </p>
 
 
+
+---
+
+### 📣 **Let’s Connect**
+
+<p align="left">
+  <a href="mailto:cse12105007brur@gmail.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFA500&width=800&lines=📧+Gmail:+cse12105007brur@gmail.com" alt="Gmail">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://codeforces.com/profile/Prince.001">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&width=800&lines=💻+Codeforces:+Prince.001" alt="Codeforces">
+  </a>
+</p>
+
+---
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <!-- GitHub Icon -->
+  <a href="https://github.com/CodderPrince" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"
+    style="border-radius: 50%; height: 70px; width: 180px;">
+  </a>
+  
+  <!-- Facebook Icon -->
+  <a href="https://www.facebook.com/md.annahian" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"
+    style="border-radius: 150%; height: 70px; width: 190px;">
+  </a>
+</div>
 
 ---
 <p align="left">
