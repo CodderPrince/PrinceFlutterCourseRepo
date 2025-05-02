@@ -65,7 +65,6 @@ class TaskManager extends StatelessWidget {
           ),
         ),
       ),
-      // home: SplashScreen(),
       debugShowCheckedModeBanner: false,
     );
   }
