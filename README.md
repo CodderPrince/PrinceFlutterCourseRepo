@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=20000&color=FFA500&center=true&vCenter=true&width=1000&lines=👋+Assalamu+Alaikum,+I'm+Md.+An+Nahian+Prince!" alt="Assalamu Alaikum">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=20000&color=FFA500&center=true&vCenter=true&width=1000&lines=Assalamu+Alaikum,+I'm+Md.+An+Nahian+Prince!" alt="Assalamu Alaikum">
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=20000&color=00FFFF&center=false&vCenter=false&width=1000&lines=✨+About+Me" alt="About Me">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=20000&color=00FFFF&center=false&vCenter=false&width=1000&lines=About+Me" alt="About Me">
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 ---
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=20000&color=00FF00&center=true&vCenter=true&width=1000&lines=🚀+Welcome+to+My+Learning+Journey!" alt="Learning Journey">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=20000&color=00FF00&center=true&vCenter=true&width=1000&lines=Welcome+to+My+Learning+Journey!" alt="Learning Journey">
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 
 <p align="left">
    <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=20000&color=FFA500&center=false&vCenter=false&width=1000&lines=📂+Repository+Overview" alt="Repository Overview">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=20000&color=FFA500&center=false&vCenter=false&width=1000&lines=Repository+Overview" alt="Repository Overview">
   </a>
 </p>
 
@@ -48,7 +48,7 @@ This repository contains all my **assignments**, **livetests**, and **projects**
 
 <p align="left">
    <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=20000&color=00FF00&center=false&vCenter=false&width=1000&lines=📋+Content+of+this+Repository" alt="Repository Content">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=20000&color=00FF00&center=false&vCenter=false&width=1000&lines=Content+of+this+Repository" alt="Repository Content">
   </a>
 </p>
 
@@ -62,7 +62,7 @@ Here’s what you’ll find in this repository:
 
 <p align="left">
    <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=20000&color=FF6347&center=false&vCenter=false&width=1000&lines=🎯+Goals+for+This+Course" alt="Course Goals">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=20000&color=FF6347&center=false&vCenter=false&width=1000&lines=Goals+for+This+Course" alt="Course Goals">
   </a>
 </p>
 
@@ -75,7 +75,7 @@ Here’s what you’ll find in this repository:
 
 <p align="left">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=20000&color=FFD700&center=false&vCenter=false&width=1000&lines=🚀+Technologies+and+Tools+I'm+Using" alt="Technologies and Tools">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=20000&color=FFD700&center=false&vCenter=false&width=1000&lines=Technologies+and+Tools+I'm+Using" alt="Technologies and Tools">
   </a>
 </p>
 
@@ -87,13 +87,6 @@ Here are some tools and technologies I’m using for this course:
 
 ---
 
-<p align="center">
-  <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=20000&color=FF6347&center=true&vCenter=true&width=1000&lines=🌟+Let’s+Build+Amazing+Apps!" alt="Let’s Build Amazing Apps">
-  </a>
-</p>
-
-
 
 ---
 
@@ -101,13 +94,13 @@ Here are some tools and technologies I’m using for this course:
 
 <p align="left">
   <a href="mailto:cse12105007brur@gmail.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFA500&width=800&lines=📧+Gmail:+cse12105007brur@gmail.com" alt="Gmail">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFA500&width=800&lines=Gmail:+cse12105007brur@gmail.com" alt="Gmail">
   </a>
 </p>
 
 <p align="left">
   <a href="https://codeforces.com/profile/Prince.001">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&width=800&lines=💻+Codeforces:+Prince.001" alt="Codeforces">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&width=800&lines=Codeforces:+Prince.001" alt="Codeforces">
   </a>
 </p>
 
@@ -130,7 +123,7 @@ Here are some tools and technologies I’m using for this course:
 ---
 <p align="left">
    <a href="https://github.com/CodderPrince/PrinceFlutterCourseRepo.git">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=20000&color=FFA500&center=false&vCenter=false&width=1000&lines=🔗+Clone+this+Repository" alt="Clone Repository">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=20000&color=FFA500&center=false&vCenter=false&width=1000&lines=Clone+this+Repository" alt="Clone Repository">
   </a>
 </p>
 
